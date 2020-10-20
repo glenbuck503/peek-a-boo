@@ -4,3 +4,12 @@ $(document).ready(function() {
     $("#walrus-hidden").toggle();
   });
 });
+
+$(document).ready(function() {
+  $(".clickable").click(function() {
+    $("#sand-showing").fadeIn()();
+    
+    
+    
+  });
+});
